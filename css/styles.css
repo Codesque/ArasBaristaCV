@@ -1,0 +1,103 @@
+body{
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  line-height: 200%;
+  font-size: 1.25rem;
+}
+table{
+  width: 70%;
+}
+h1{
+margin: 0 3% 2%;
+
+}
+
+#top{
+  text-align: left;
+}
+
+.pro-photo{
+  width: 70%;
+}
+.text00{
+  padding: 10% 3% 3%;
+}
+.busi-photo{
+
+  width: 10%;
+margin: 0 3%;
+  float: left;
+}
+
+.dots{
+border-color: red;
+  border-style: dotted none none;
+  width: 5%;
+border-top-width: 0.75rem;
+margin: 5% auto;
+background-color: white;
+
+}
+
+#main{
+background-color: #FCDEC0;
+padding: 5% 10%;
+
+
+}
+#bottom{
+  padding: 5% 10%;
+  background-color: #C68B59;
+  color: white;
+
+}
+.table-abilities{
+  color: white;
+}
+
+.point{
+  width: 3rem;
+  height: 10%;
+
+}
+.table-abilities{
+  background-color:#393E46;
+}
+.littbottom{
+  background-color:#8FC1D4;
+  margin: auto 0 0;
+  padding: 0;
+}
+#contact-us{
+  background-color: #C68B59;
+}
+.row{
+  padding: 5%;
+}
+
+.coffee{
+  transform: rotate(25deg);
+}
+
+
+.creamy{
+  width: 80%;
+  transform: rotate(-45deg);
+}
+.head-bottom{
+margin-top: 10%;
+  font-size: 4rem;
+  color: white;
+}
+.head-bottom-number {
+  font-size: 3rem;
+  color: white;
+
+}
+.text-bottom{
+  margin: 20% auto 40%;
+font-size: 2rem;
+line-height: 4rem;
+color: #402218;
+font-family: 'Pacifico', cursive;
+}
