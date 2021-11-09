@@ -77,12 +77,15 @@ padding: 5% 10%;
 
 .coffee{
   transform: rotate(25deg);
+
 }
 
 
 .creamy{
   width: 80%;
   transform: rotate(-45deg);
+margin-right: 10%;
+margin-top: 20%;
 }
 .head-bottom{
 margin-top: 10%;
@@ -95,9 +98,12 @@ margin-top: 10%;
 
 }
 .text-bottom{
-  margin: 20% auto 40%;
+
 font-size: 2rem;
 line-height: 4rem;
 color: #402218;
 font-family: 'Pacifico', cursive;
+}
+.latte{
+  width: 80%;
 }
